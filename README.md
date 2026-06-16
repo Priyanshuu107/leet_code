@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Priyanshuu107/leet_code/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshuu107/leet_code/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Priyanshuu107/leet_code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
