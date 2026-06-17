@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshuu107/leet_code/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
