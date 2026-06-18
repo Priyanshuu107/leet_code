@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanshuu107/leet_code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Priyanshuu107/leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshuu107/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshuu107/leet_code/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
+| [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
 ## Recursion
