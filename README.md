@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Priyanshuu107/leet_code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshuu107/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Priyanshuu107/leet_code/tree/master/1732-find-the-highest-altitude) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyanshuu107/leet_code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -152,4 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
