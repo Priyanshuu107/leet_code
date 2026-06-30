@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Priyanshuu107/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/Priyanshuu107/leet_code/tree/master/0141-linked-list-cycle) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanshuu107/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshuu107/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Priyanshuu107/leet_code/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Priyanshuu107/leet_code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshuu107/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Priyanshuu107/leet_code/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
