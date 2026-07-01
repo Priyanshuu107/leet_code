@@ -188,16 +188,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
