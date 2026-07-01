@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -186,14 +187,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
