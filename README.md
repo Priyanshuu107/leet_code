@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyanshuu107/leet_code/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanshuu107/leet_code/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshuu107/leet_code/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Priyanshuu107/leet_code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Priyanshuu107/leet_code/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -258,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
