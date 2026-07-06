@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanshuu107/leet_code/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Priyanshuu107/leet_code/tree/master/1732-find-the-highest-altitude) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshuu107/leet_code/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuu107/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshuu107/leet_code/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3379-transformed-array](https://github.com/Priyanshuu107/leet_code/tree/master/3379-transformed-array) |
 ## Sliding Window
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Priyanshuu107/leet_code/tree/master/3620-network-recovery-pathways) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
