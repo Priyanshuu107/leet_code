@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyanshuu107/leet_code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Priyanshuu107/leet_code/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0649-dota2-senate](https://github.com/Priyanshuu107/leet_code/tree/master/0649-dota2-senate) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
