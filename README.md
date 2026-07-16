@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Priyanshuu107/leet_code/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Priyanshuu107/leet_code/tree/master/0091-decode-ways) |
 | [0649-dota2-senate](https://github.com/Priyanshuu107/leet_code/tree/master/0649-dota2-senate) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshuu107/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Priyanshuu107/leet_code/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/Priyanshuu107/leet_code/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanshuu107/leet_code/tree/master/1301-number-of-paths-with-max-score) |
