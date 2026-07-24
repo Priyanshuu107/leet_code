@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuu107/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3379-transformed-array](https://github.com/Priyanshuu107/leet_code/tree/master/3379-transformed-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanshuu107/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Priyanshuu107/leet_code/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanshuu107/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshuu107/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priyanshuu107/leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshuu107/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
