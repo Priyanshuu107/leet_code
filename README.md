@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanshuu107/leet_code/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Priyanshuu107/leet_code/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshuu107/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanshuu107/leet_code/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/Priyanshuu107/leet_code/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -324,4 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
