@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Priyanshuu107/leet_code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Priyanshuu107/leet_code/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshuu107/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Priyanshuu107/leet_code/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Priyanshuu107/leet_code/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshuu107/leet_code/tree/master/0131-palindrome-partitioning) |
