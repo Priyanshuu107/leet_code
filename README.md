@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Priyanshuu107/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Priyanshuu107/leet_code/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/Priyanshuu107/leet_code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Priyanshuu107/leet_code/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Priyanshuu107/leet_code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshuu107/leet_code/tree/master/1386-cinema-seat-allocation) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Priyanshuu107/leet_code/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Priyanshuu107/leet_code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Priyanshuu107/leet_code/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
