@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Priyanshuu107/leet_code/tree/master/0217-contains-duplicate) |
+| [0874-walking-robot-simulation](https://github.com/Priyanshuu107/leet_code/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshuu107/leet_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Priyanshuu107/leet_code/tree/master/0217-contains-duplicate) |
+| [0874-walking-robot-simulation](https://github.com/Priyanshuu107/leet_code/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshuu107/leet_code/tree/master/1386-cinema-seat-allocation) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Priyanshuu107/leet_code/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Priyanshuu107/leet_code/tree/master/0874-walking-robot-simulation) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
