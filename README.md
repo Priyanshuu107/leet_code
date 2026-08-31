@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Priyanshuu107/leet_code/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Priyanshuu107/leet_code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
@@ -387,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
