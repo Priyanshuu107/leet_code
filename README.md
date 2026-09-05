@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Priyanshuu107/leet_code/tree/master/0131-palindrome-partitioning) |
 | [0649-dota2-senate](https://github.com/Priyanshuu107/leet_code/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Priyanshuu107/leet_code/tree/master/0657-robot-return-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshuu107/leet_code/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Priyanshuu107/leet_code/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Priyanshuu107/leet_code/tree/master/0989-add-to-array-form-of-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuu107/leet_code/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Priyanshuu107/leet_code/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/Priyanshuu107/leet_code/tree/master/1518-water-bottles) |
@@ -412,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0052-n-queens-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
