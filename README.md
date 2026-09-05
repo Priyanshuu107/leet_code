@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Priyanshuu107/leet_code/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshuu107/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshuu107/leet_code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Priyanshuu107/leet_code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanshuu107/leet_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0142-linked-list-cycle-ii) |
+| [1768-merge-strings-alternately](https://github.com/Priyanshuu107/leet_code/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshuu107/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshuu107/leet_code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
