@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshuu107/leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanshuu107/leet_code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Priyanshuu107/leet_code/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshuu107/leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshuu107/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshuu107/leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
