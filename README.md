@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyanshuu107/leet_code/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Priyanshuu107/leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Priyanshuu107/leet_code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Priyanshuu107/leet_code/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Priyanshuu107/leet_code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0090-subsets-ii) |
