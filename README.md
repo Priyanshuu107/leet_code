@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshuu107/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanshuu107/leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanshuu107/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshuu107/leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Priyanshuu107/leet_code/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshuu107/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanshuu107/leet_code/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/Priyanshuu107/leet_code/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshuu107/leet_code/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyanshuu107/leet_code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshuu107/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshuu107/leet_code/tree/master/0217-contains-duplicate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Priyanshuu107/leet_code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshuu107/leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Priyanshuu107/leet_code/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
