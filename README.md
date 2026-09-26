@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanshuu107/leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshuu107/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Priyanshuu107/leet_code/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuu107/leet_code/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyanshuu107/leet_code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshuu107/leet_code/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanshuu107/leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshuu107/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanshuu107/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshuu107/leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Priyanshuu107/leet_code/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshuu107/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/3498-reverse-degree-of-a-string) |
