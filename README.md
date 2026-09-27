@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Priyanshuu107/leet_code/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanshuu107/leet_code/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanshuu107/leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Priyanshuu107/leet_code/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/Priyanshuu107/leet_code/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -480,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Priyanshuu107/leet_code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
