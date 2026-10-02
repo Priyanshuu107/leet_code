@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Priyanshuu107/leet_code/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Priyanshuu107/leet_code/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Priyanshuu107/leet_code/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Priyanshuu107/leet_code/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Priyanshuu107/leet_code/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Priyanshuu107/leet_code/tree/master/1148-article-views-i) |
