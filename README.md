@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshuu107/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Priyanshuu107/leet_code/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Priyanshuu107/leet_code/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Priyanshuu107/leet_code/tree/master/0091-decode-ways) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshuu107/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Priyanshuu107/leet_code/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/Priyanshuu107/leet_code/tree/master/1096-brace-expansion-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priyanshuu107/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Priyanshuu107/leet_code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Priyanshuu107/leet_code/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Priyanshuu107/leet_code/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Priyanshuu107/leet_code/tree/master/0095-unique-binary-search-trees-ii) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Priyanshuu107/leet_code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuu107/leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
