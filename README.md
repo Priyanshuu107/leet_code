@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshuu107/leet_code/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuu107/leet_code/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuu107/leet_code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3379-transformed-array](https://github.com/Priyanshuu107/leet_code/tree/master/3379-transformed-array) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshuu107/leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
