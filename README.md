@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanshuu107/leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Priyanshuu107/leet_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Priyanshuu107/leet_code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3379-transformed-array](https://github.com/Priyanshuu107/leet_code/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshuu107/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Priyanshuu107/leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Priyanshuu107/leet_code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Priyanshuu107/leet_code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanshuu107/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshuu107/leet_code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Priyanshuu107/leet_code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanshuu107/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -551,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Priyanshuu107/leet_code/tree/master/0796-rotate-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Priyanshuu107/leet_code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
