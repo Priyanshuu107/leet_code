@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Priyanshuu107/leet_code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/Priyanshuu107/leet_code/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshuu107/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshuu107/leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Priyanshuu107/leet_code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyanshuu107/leet_code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Priyanshuu107/leet_code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshuu107/leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshuu107/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Priyanshuu107/leet_code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuu107/leet_code/tree/master/3524-find-x-value-of-array-i) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuu107/leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanshuu107/leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanshuu107/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshuu107/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshuu107/leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Priyanshuu107/leet_code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -564,12 +567,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshuu107/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshuu107/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Priyanshuu107/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshuu107/leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Priyanshuu107/leet_code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshuu107/leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanshuu107/leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshuu107/leet_code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
